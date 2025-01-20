@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/game.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
+}
